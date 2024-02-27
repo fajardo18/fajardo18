@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello World, ¡soy Naek! <br/><a href="https://github.com/naekmv">Python Developer</a>, <a href="https://www.linkedin.com/in/shonnymejia/">Content Creator</a>, <a href="https://www.youtube.com/naekm">YouTuber</a></h1>
+<h1>Hello World, ¡soy Angelica! <br/><a href="https://github.com/fajardo18">Data Science</a>, <a href="https://www.linkedin.com/in/angelica-fajardo/">Content Creator</a>, <a href="https://www.youtube.com/naekm">YouTuber</a></h1>
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
