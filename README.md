@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
-  - [Full Stack Web App: React, NodeJS, Azure, y componentes de Machine Learning ](https://github.com/naekmv/LabActiveDirectory) 
-  - [Active Directory Lab](https://github.com/naekmv/LabActiveDirectory) 
-
+  - 
 
 <h2>📄 Certificados </h2>
 
-- [PROTalento](https://www.youtube.com/)
+- [PROTalento]
 
 <h2>📺 Videos Demo</h2>
 
