@@ -35,9 +35,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="NaekMejia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NaekMejia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/naekm
-[instagram]: https://www.instagram.com/naekmejia
-[linkedin]: https://linkedin.com/in/shonnymejia
+[instagram]: https://www.instagram.com/angelica.f18
+[linkedin]: https://linkedin.com/in/angelica-fajardo
 
 <!--
 **naekm/naekmv** es un repositorio ✨ _special_ ✨ ya que el archivo `README.md` (este archivo ) aparece directamente en tu perfil de Github.
