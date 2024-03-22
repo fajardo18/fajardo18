@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello World, ¡soy Angelica! <br/><a href="https://github.com/fajardo18">Data Science</a>, <a href="https://www.linkedin.com/in/angelica-fajardo/">,</h1>
+<h1>Hello World, ¡soy Angelica! <br/><a href="https://github.com/fajardo18">Data Science</a>, <a href="https://www.linkedin.com/in/angelica-fajardo/"></h1>
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
